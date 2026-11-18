@@ -1,0 +1,5 @@
+{
+  "version": "1.2.0",
+  "file": "TruckReport-Setup.exe",
+  "notes": "Report aus T-Doc automatisch auslesen, Vergleich im WinMerge-Stil, Fehlerprotokoll mit Fehlercode-Katalog, neues Design, automatische Updates."
+}
