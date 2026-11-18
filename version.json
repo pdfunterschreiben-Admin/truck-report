@@ -1,5 +1,5 @@
 {
-  "version": "1.3.1",
+  "version": "1.4.0",
   "file": "TruckReport-Setup.exe",
-  "notes": "Neues Logo (Schubmaststapler). Maschinenakte mit Verlauf und Diagrammen, Abgleich mit dem Werkszustand, Drucken/PDF, T-Doc-Fenster läuft unsichtbar im Hintergrund und schließt sich mit dem Programm, Schutz auf dem gemeinsamen Server, neues Logo."
+  "notes": "Neu: Hinweise je Report (Software-Paket, Platzhalter-Parameter, Batterie), Fehler die zusammen auftreten, Häufigkeit und Trend nach Betriebsstunden, Messwerte je Fehler mit Batteriespannung (Vermutung) und eigenen Bezeichnungen, Notizen/Reparaturen in der Maschinenakte, Flottenvergleich, Hydraulik-Kalibrierparameter (ab 1200) getrennt."
 }
