@@ -1,5 +1,5 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "file": "TruckReport-Setup.exe",
-  "notes": "Neu: Hinweise je Report (Software-Paket, Platzhalter-Parameter, Batterie), Fehler die zusammen auftreten, Häufigkeit und Trend nach Betriebsstunden, Messwerte je Fehler mit Batteriespannung (Vermutung) und eigenen Bezeichnungen, Notizen/Reparaturen in der Maschinenakte, Flottenvergleich, Hydraulik-Kalibrierparameter (ab 1200) getrennt."
+  "notes": "Desktop- und Startmenü-Symbol werden nach dem Update auf das neue Logo umgestellt. Neu: Hinweise je Report (Software-Paket, Platzhalter-Parameter, Batterie), Fehler die zusammen auftreten, Häufigkeit und Trend nach Betriebsstunden, Messwerte je Fehler mit Batteriespannung (Vermutung) und eigenen Bezeichnungen, Notizen/Reparaturen in der Maschinenakte, Flottenvergleich, Hydraulik-Kalibrierparameter (ab 1200) getrennt."
 }
