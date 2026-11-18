@@ -1,5 +1,5 @@
 {
-  "version": "1.4.1",
+  "version": "1.5.0",
   "file": "TruckReport-Setup.exe",
-  "notes": "Desktop- und Startmenü-Symbol werden nach dem Update auf das neue Logo umgestellt. Neu: Hinweise je Report (Software-Paket, Platzhalter-Parameter, Batterie), Fehler die zusammen auftreten, Häufigkeit und Trend nach Betriebsstunden, Messwerte je Fehler mit Batteriespannung (Vermutung) und eigenen Bezeichnungen, Notizen/Reparaturen in der Maschinenakte, Flottenvergleich, Hydraulik-Kalibrierparameter (ab 1200) getrennt."
+  "notes": "Neu: Seite Fehlercodes (Wissensdatenbank über alle Maschinen mit Reparatur-Notizen), Wirkung von Reparaturen, Spannungsverlauf, Geräteliste-Import (Standort, nächste UVV), Wartungsprognose, Soll-Parameter je Kunde/Modell, Kurzbericht als PDF, gemeinsame Kataloge für alle Kollegen, sicheres Speichern im gemeinsamen Server-Ordner."
 }
