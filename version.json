@@ -1,5 +1,5 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "file": "TruckReport-Setup.exe",
-  "notes": "Neu: Maschinenakte mit Verlauf und Diagrammen, Abgleich mit dem Werkszustand, Drucken/PDF, T-Doc-Fenster läuft unsichtbar im Hintergrund und schließt sich mit dem Programm, Schutz auf dem gemeinsamen Server, neues Logo."
+  "notes": "Neues Logo (Schubmaststapler). Maschinenakte mit Verlauf und Diagrammen, Abgleich mit dem Werkszustand, Drucken/PDF, T-Doc-Fenster läuft unsichtbar im Hintergrund und schließt sich mit dem Programm, Schutz auf dem gemeinsamen Server, neues Logo."
 }
