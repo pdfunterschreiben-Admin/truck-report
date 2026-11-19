@@ -1,5 +1,5 @@
 {
-  "version": "1.5.0",
+  "version": "1.6.0",
   "file": "TruckReport-Setup.exe",
-  "notes": "Neu: Seite Fehlercodes (Wissensdatenbank über alle Maschinen mit Reparatur-Notizen), Wirkung von Reparaturen, Spannungsverlauf, Geräteliste-Import (Standort, nächste UVV), Wartungsprognose, Soll-Parameter je Kunde/Modell, Kurzbericht als PDF, gemeinsame Kataloge für alle Kollegen, sicheres Speichern im gemeinsamen Server-Ordner."
+  "notes": "Neu: Toyota-Truck-Reports als PDF (z. B. 9FBM30T/Traigo) werden gelesen – Knoten, Parameter, Stundenzähler und Logbuch mit Batterie-Ladung und Temperaturen; Hinweise zu Software-Stand und nächster Wartung. Ältere TruckCom-Reports (3.x) mit Fehlerprotokoll im alten Format werden unterstützt."
 }
