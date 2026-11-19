@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
+  "version": "1.6.1",
   "file": "TruckReport-Setup.exe",
   "notes": "Neu: Toyota-Truck-Reports als PDF (z. B. 9FBM30T/Traigo) werden gelesen – Knoten, Parameter, Stundenzähler und Logbuch mit Batterie-Ladung und Temperaturen; Hinweise zu Software-Stand und nächster Wartung. Ältere TruckCom-Reports (3.x) mit Fehlerprotokoll im alten Format werden unterstützt."
 }
