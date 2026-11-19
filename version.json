@@ -1,5 +1,5 @@
 {
-  "version": "1.6.1",
+  "version": "1.7.0",
   "file": "TruckReport-Setup.exe",
-  "notes": "Neu: Toyota-Truck-Reports als PDF (z. B. 9FBM30T/Traigo) werden gelesen – Knoten, Parameter, Stundenzähler und Logbuch mit Batterie-Ladung und Temperaturen; Hinweise zu Software-Stand und nächster Wartung. Ältere TruckCom-Reports (3.x) mit Fehlerprotokoll im alten Format werden unterstützt."
+  "notes": "Neu: Fehlercodes werden im passenden Servicehandbuch aus dem Programm „Servicedokumente“ nachgeschlagen (Handbuch wird über Software-Paket und Modell gewählt, z. B. RRE H1/H2, Toyota 9er Serie). Beschreibung, Seite und Textstelle stehen im Fehlerprotokoll und im Kurzbericht; die PDF öffnet sich an der richtigen Seite. Neu auch: „Wann treten die Fehler auf?“ – Uhrzeit-Verteilung je Code und Abfolgen über Nacht (abends Fehler A, morgens Fehler B)."
 }
